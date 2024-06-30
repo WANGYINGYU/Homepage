@@ -15,7 +15,7 @@ I'm a third-year Ph.D. student from [Robotics Insititute](https://www.uts.edu.au
 News
 ======
 
-**Now**  Two papers (T-RO $\times$ 1 and IROS $\times$ 1) are under review.
+**2024-06-30** One paper has been accepted by IROS 2024. The code and paper will be released soon.
 
 Representative Publications
 ======
