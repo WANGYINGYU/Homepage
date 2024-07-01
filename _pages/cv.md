@@ -21,7 +21,7 @@ Work experience
 
 
 
-Publications
+Representative Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
